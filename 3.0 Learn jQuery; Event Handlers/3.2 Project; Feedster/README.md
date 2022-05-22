@@ -5,6 +5,8 @@ If you’re up for a challenge, feedster also wants help limiting their users’
 
 If you get stuck during this project or would like to see an experienced developer work through it, click “Get Unstuck“ to see a [project walkthrough video](https://www.youtube.com/watch?v=6qIEyC23PSM).
 
+![](./Capture.PNG)
+
 ## Add Hover Functionality to the Navigation Menu
 1. In the next two steps, you will make a navigation menu appear when you hover over menu, and make it disappear when you navigate away from the navigation menu.
 

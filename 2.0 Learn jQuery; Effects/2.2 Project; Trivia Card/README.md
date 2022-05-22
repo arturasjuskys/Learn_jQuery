@@ -9,6 +9,8 @@ You can preview the starting state of the Trivia Card on the right.
 
 If you get stuck during this project or would like to see an experienced developer work through it, click “Get Unstuck“ to see a [project walkthrough video](https://www.youtube.com/watch?v=-T_T4NRwrWQ).
 
+![](./Capture.PNG)
+
 ## Tasks
 1. Let’s start with the hint box. Select the hint box by its class, 'hint-box', and create an event handler for it on 'click'. Because we are selecting the element by its class, remember to use . when selecting it. Leave the callback function empty for now.
 2. When the hint box is clicked on, we want the HTML element containing the hint to slide into view.
