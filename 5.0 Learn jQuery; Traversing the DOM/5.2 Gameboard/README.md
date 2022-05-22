@@ -3,6 +3,8 @@ Gameboard is creating a scoreboard that displays NBA scores from around the leag
 
 If you get stuck during this project or would like to see an experienced developer work through it, click “Get Unstuck“ to see a [project walkthrough video](https://www.youtube.com/watch?v=Jml4eShR5O8).
 
+![](./Capture.PNG)
+
 1. Look at index.html:
 
     In the \<div class="row more">, there are two elements: an \<a class="more-btn"> and a \<ul class="more-menu">. When the \<a> is clicked, we want the \<ul class="more-menu"> to appear.
