@@ -2,10 +2,9 @@
 
 While there are many fonts you can purchase and add to your site, there are also several free, web safe fonts that work across all browsers. Your company wants you to build a simple app to preview different web safe fonts, sizes, and weights. With jQuery, it’s a snap!
 
-If you get stuck during this project or would like to see an experienced developer work through it, click “Get Unstuck“ to see a project walkthrough video.
-Tasks
-0/10 Complete
-Mark the tasks as complete by checking them off
+If you get stuck during this project or would like to see an experienced developer work through it, click “Get Unstuck“ to see a [project walkthrough video](https://www.youtube.com/watch?v=_ICEqxIPgxg).
+
+![](./Capture.PNG)
 
 1. To begin, look at index.html:
 
